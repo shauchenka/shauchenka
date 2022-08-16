@@ -7,5 +7,4 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/shevchenko](https://www.behance.net/shevchenko)
 
-
-![gh-stargazer](https://user-images.githubusercontent.com/2790488/184917132-3747b7a7-b6e0-4149-a778-7986bbf1522d.png)
+<img width="818" alt="gh-stargazer" src="https://user-images.githubusercontent.com/2790488/184917302-997047ac-778d-41b9-b4ac-aa763a5badc9.png">
