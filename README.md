@@ -7,7 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/shevchenko](https://www.behance.net/shevchenko)
 
-[<img src="https://quine.sh/gh-stats/toha" alt="Anton Shauchenka's GitHub stats image" width="932px">](https://quine.sh/profile/toha)
+[<img src="https://stats.quine.sh/toha/language-stats" alt="Anton Shauchenka's language experiences" width="818px">](https://quine.sh/profile/toha)
 
 
-<img src="https://quine.sh/stack-overflow-stats/toha" alt="Anton Shauchenka's StackOverflow achievements image" width="330px">
+
+|<img src="https://stats.quine.sh/toha/stack-overflow-stats" alt="Anton Shauchenka's Stack Overflow achievements" width="330px">|<img src="https://stats.quine.sh/toha/web3-stats" alt="Anton Shauchenka's Web3 activity" width="330px">|
+|---|---|
