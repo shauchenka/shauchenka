@@ -10,9 +10,12 @@
 [<img src="https://stats.quine.sh/toha/language-stats" alt="Anton Shauchenka's language experiences" width="818px">](https://quine.sh/profile/toha)
 <img src="https://stats.quine.sh/toha/gh-stats-simple" alt="Anton Shauchenka's GitHub stats" width="932px">
 
-<img src="https://stats.quine.sh/toha/stack-overflow-stats" alt="Anton Shauchenka's Stack Overflow achievements" width="330px">
-<img src="https://stats.quine.sh/toha/web3-stats" alt="Anton Shauchenka's Web3 activity" width="330px">
+
+A wrapper test
+[<img src="https://stats.quine.sh/toha/stack-overflow-stats" alt="Anton Shauchenka's Stack Overflow achievements" width="330px">](https://quine.sh/profile/toha)
+[<img src="https://stats.quine.sh/toha/web3-stats" alt="Anton Shauchenka's Web3 activity" width="330px">](https://quine.sh/profile/toha)
 
 
+Table test
 |<img src="https://stats.quine.sh/toha/stack-overflow-stats" alt="Anton Shauchenka's Stack Overflow achievements" width="330px">|<img src="https://stats.quine.sh/toha/web3-stats" alt="Anton Shauchenka's Web3 activity" width="330px">|
 |---|---|
