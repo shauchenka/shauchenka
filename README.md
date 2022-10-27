@@ -17,8 +17,10 @@ Link <A> wrapper test</br>
 
 
 html table test with 
-<table><tr><td valign="top">[<img src="https://stats.quine.sh/toha/stack-overflow-stats" alt="Anton Shauchenka's Stack Overflow achievements" width="330px">](https://quine.sh/profile/toha)
-[<img src="https://stats.quine.sh/toha/web3-stats" alt="Anton Shauchenka's Web3 activity" width="330px">](https://quine.sh/profile/toha)</td></tr></table>
+<table><tr><td valign="top">
+[<img src="https://stats.quine.sh/toha/stack-overflow-stats" alt="Anton Shauchenka's Stack Overflow achievements" width="330px">](https://quine.sh/profile/toha)
+[<img src="https://stats.quine.sh/toha/web3-stats" alt="Anton Shauchenka's Web3 activity" width="330px">](https://quine.sh/profile/toha)
+</td></tr></table>
 
 Table test
 |<img src="https://stats.quine.sh/toha/stack-overflow-stats" alt="Anton Shauchenka's Stack Overflow achievements" width="330px">|<img src="https://stats.quine.sh/toha/web3-stats" alt="Anton Shauchenka's Web3 activity" width="330px">|
