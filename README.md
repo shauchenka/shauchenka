@@ -7,25 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/shevchenko](https://www.behance.net/shevchenko)
 
-[<img src="https://stats.quine.sh/toha/language-stats" alt="Anton Shauchenka's language experiences" width="818px">](https://quine.sh/profile/toha)
-<img src="https://stats.quine.sh/toha/gh-stats-simple" alt="Anton Shauchenka's GitHub stats" width="932px">
-
-MD Link <A> wrapper test</br>
-![https://stats.quine.sh/toha/stack-overflow-stats](https://quine.sh/profile/toha)
-![https://stats.quine.sh/toha/web3-stats](https://quine.sh/profile/toha)
+[![Anton Shauchenka's Stack Overflow achievements](https://stats.quine.sh/toha/stack-overflow)](https://quine.sh/profile/toha)
 
 
-Link <A> wrapper test</br>
-[<img src="https://stats.quine.sh/toha/stack-overflow-stats" alt="Anton Shauchenka's Stack Overflow achievements" width="330px">](https://quine.sh/profile/toha)
-[<img src="https://stats.quine.sh/toha/web3-stats" alt="Anton Shauchenka's Web3 activity" width="330px">](https://quine.sh/profile/toha)
-
-
-html table test with 
-<table><tr><td valign="center">
-<img src="https://stats.quine.sh/toha/stack-overflow-stats" alt="Anton Shauchenka's Stack Overflow achievements" width="330px"/>
-<img src="https://stats.quine.sh/toha/web3-stats" alt="Anton Shauchenka's Web3 activity" width="330px"/>
-</td></tr></table>
-
-Table test
-|<img src="https://stats.quine.sh/toha/stack-overflow-stats" alt="Anton Shauchenka's Stack Overflow achievements" width="330px">|<img src="https://stats.quine.sh/toha/web3-stats" alt="Anton Shauchenka's Web3 activity" width="330px">|
-|---|---|
+<a href="https://quine.sh/profile/toha"><img src="https://stats.quine.sh/toha/github" alt="Anton Shauchenka's GitHub stats" width="840px"></a>
