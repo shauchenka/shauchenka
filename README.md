@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anton</h1>
-<h3 align="center">A passionate designer</h3>
-
-- 🔭 I’m currently working on [Quine](https://quine.sh)
+<h1 align="center">Hi 👋, I'm Anton, product designer</h1>
 
 - 👯 I’m looking to collaborate on [formo.one](https://formo.one)
 
